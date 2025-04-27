@@ -22,7 +22,7 @@ Este projeto foi criado como parte da minha transição de carreira para a área
 
 ## 📷 Visual do Dashboard
 
-![Dashboard Excel](imagens/captura_de_tela_2024-12-23_151250.png)
+![Dashboard Excel](imagens/Captura_de_tela_2025-04-26_223845.png)
 
 ---
 
